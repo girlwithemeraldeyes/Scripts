@@ -1,0 +1,3 @@
+# Un nombre de servicio por línea. Puedes sustituir estos ejemplos.
+cron.service
+systemd-journald.service
